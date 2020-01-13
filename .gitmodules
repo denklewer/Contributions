@@ -1,0 +1,3 @@
+[submodule "picard"]
+	path = picard
+	url = https://github.com/broadinstitute/picard
