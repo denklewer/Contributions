@@ -1,3 +1,9 @@
 [submodule "picard"]
 	path = picard
 	url = https://github.com/broadinstitute/picard
+[submodule "tortilla-controller"]
+	path = tortilla-controller
+	url = https://github.com/maybe-hello-world/tortilla-controller
+[submodule "tortilla-client"]
+	path = tortilla-client
+	url = https://github.com/maybe-hello-world/tortilla-client
